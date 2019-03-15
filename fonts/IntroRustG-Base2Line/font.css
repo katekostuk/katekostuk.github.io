@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'IntroRustG-Base2Line';
+  src: url('IntroRustG-Base2Line.eot');
+  src: url('IntroRustG-Base2Line.eot?#iefix') format('embedded-opentype'),
+       url('IntroRustG-Base2Line.woff2') format('woff2'),
+       url('IntroRustG-Base2Line.woff') format('woff'),
+       url('IntroRustG-Base2Line.ttf') format('truetype'),
+       url('IntroRustG-Base2Line.svg#IntroRustG-Base2Line') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
